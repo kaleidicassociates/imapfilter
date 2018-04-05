@@ -1,0 +1,5 @@
+name "imapfilter"
+description "D bindings to imapfilter library"
+authors "Laeeth Isharc"
+copyright "Copyright © 2018, Laeeth Isharc"
+license "proprietary"
